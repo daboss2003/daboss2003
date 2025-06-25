@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently a typescript/javascript developer
 - 💞️ I’m looking to collaborate on any code contest
-- 📫 How to reach me samsonoluwafemi203@gmail.com
+- 📫 How to reach me femiemmanuel203@gmail.com
 
 <!---
 daboss2003/daboss2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
