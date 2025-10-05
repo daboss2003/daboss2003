@@ -98,7 +98,8 @@ Web application connecting companies with recruiters, enabling efficient talent 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=daboss2003&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=daboss2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+*Note: Private repository contributions may not be fully reflected*
 
 ### 💻 Most Used Languages (Public + Private Projects)
 ```text
@@ -199,15 +200,6 @@ I'm a self-taught developer who learned through hands-on practice, intensive cou
 ---
 
 ⭐️ From [Samson Olawale Oluwafemi](https://github.com/daboss2003)
-
-<!-- 
-Optional sections you might want to add:
-- 🏆 Achievements & Awards
-- 📺 Latest YouTube Videos (if you create content)
-- 🎤 Speaking Engagements
-- 📚 Favorite Resources
-- 💬 Ask me about... 
--->
 
 
 
