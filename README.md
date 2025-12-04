@@ -50,6 +50,7 @@ I'm a versatile developer who builds applications across multiple platforms - fr
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
@@ -58,7 +59,7 @@ I'm a versatile developer who builds applications across multiple platforms - fr
 ## 🔥 Featured Projects
 
 ### 🌟 FairShop Marketplace
-**Anter Technologies**
+**Anter Technologies** | *Proprietary Application - Search online via name*
 
 Complete e-commerce marketplace mobile application connecting buyers and sellers for seamless shopping experiences.
 
@@ -71,7 +72,7 @@ Complete e-commerce marketplace mobile application connecting buyers and sellers
 ---
 
 ### 🌟 FairShop Admin App
-**Anter Technologies**
+**Anter Technologies** | *Proprietary Application - Search online via name*
 
 Administrative mobile application for managing the FairShop marketplace platform, inventory, and operations.
 
@@ -84,7 +85,7 @@ Administrative mobile application for managing the FairShop marketplace platform
 ---
 
 ### 🌟 ControlFind
-**Anter Technologies**
+**Anter Technologies** | [🔗 Live Site](https://controlfindtalent.com)
 
 Web application connecting companies with recruiters, enabling efficient talent acquisition and recruitment management.
 
@@ -93,6 +94,45 @@ Web application connecting companies with recruiters, enabling efficient talent 
 - ✨ Streamlined recruitment process connecting companies and recruiters
 - ⚡ Efficient talent matching and application management
 - 🎯 Bridging the gap between businesses and recruitment professionals
+
+---
+
+### 🌟 CredLock FoneFlex (Mobile)
+**Credlock-Africa** | *Proprietary Application - Search online via name*
+
+Mobile application for loan management and financial services, enabling seamless loan processing and customer management.
+
+**Tech Stack:** React Native, Capacitor, Ionic, TypeScript
+
+- ✨ Comprehensive loan management system for mobile users
+- ⚡ Streamlined loan processing and customer account management
+- 🎯 Built for fintech operations serving customers across Africa
+
+---
+
+### 🌟 CredLock Business (Mobile)
+**Credlock-Africa** | *Proprietary Application - Search online via name*
+
+Mobile application designed for business operations and merchant management within the CredLock ecosystem.
+
+**Tech Stack:** React Native, Capacitor, Ionic, TypeScript
+
+- ✨ Business-focused mobile solution for merchant operations
+- ⚡ Integrated financial management and reporting tools
+- 🎯 Enabling businesses to manage their CredLock services efficiently
+
+---
+
+### 🌟 CredLock Agents (Desktop)
+**Credlock-Africa** | *Proprietary Application - Search online via name*
+
+Desktop application empowering field agents to process loans, onboard customers, and manage transactions.
+
+**Tech Stack:** Electron, React, TypeScript
+
+- ✨ Desktop solution for field agents and loan officers
+- ⚡ Real-time loan processing and customer onboarding
+- 🎯 Enabling financial services delivery across remote locations
 
 ---
 
@@ -141,11 +181,13 @@ Bash         █░░░░░░░░░░░░░░░░░░░░░�
 
 ### Software Developer @ Credlock-Africa
 *January 2025 - Present*
-- Building cross-platform applications (web, mobile, and desktop) for fintech solutions
+- Built CredLock FoneFlex & CredLock Business mobile applications using React Native, Capacitor, and Ionic for loan management
+- Developed CredLock Agents desktop application for field agents using Electron
+- Contributed to loan origination and collections management systems
+- Currently building the front-end for a new comprehensive loan management system
 - Developing and maintaining financial technology products serving customers across Africa
-- Working with modern tech stacks including Capacitor, Ionic, and Native Modules
 
-### Junior Developer @ Anter Technologies
+### Software Developer @ Anter Technologies
 *Month Year - Month Year* (3 months)
 - Built FairShop Marketplace and Admin mobile applications using React Native
 - Developed ControlFind web application using Next.js and TypeScript
@@ -201,9 +243,13 @@ I'm a self-taught developer who learned through hands-on practice, intensive cou
 
 ⭐️ From [Samson Olawale Oluwafemi](https://github.com/daboss2003)
 
+<!-- 
+Optional sections you might want to add:
+- 🏆 Achievements & Awards
+- 📺 Latest YouTube Videos (if you create content)
+- 🎤 Speaking Engagements
+- 📚 Favorite Resources
+- 💬 Ask me about... 
+-->
 
 
-<!---
-daboss2003/daboss2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
