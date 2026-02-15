@@ -138,7 +138,7 @@ Desktop application empowering field agents to process loans, onboard customers,
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=daboss2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=daboss2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)
 *Note: Private repository contributions may not be fully reflected*
 
 ### 💻 Most Used Languages (Public + Private Projects)
@@ -154,7 +154,7 @@ Swift        ██░░░░░░░░░░░░░░░░░░░░�
 Bash         █░░░░░░░░░░░░░░░░░░░░░░░    2%
 ```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daboss2003&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daboss2003&layout=compact&theme=radical&v=1)
 *Note: Public repos only*
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daboss2003&theme=radical)
