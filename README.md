@@ -166,9 +166,9 @@ A desktop app empowering field agents to process loans and onboard customers.
  
 ## GitHub Stats
  
-![GitHub Stats](https://project-daboss2003.vercel.app/api?username=daboss2003&show_icons=true&nclude_all_commits=true&theme=radical)
+![GitHub Stats](https://project-daboss2003.vercel.app/api?username=daboss2003&show_icons=true&nclude_all_commits=true&theme=radical&cache_seconds=1800)
  
-![Top Languages](https://project-daboss2003.vercel.app/api/top-langs/?username=daboss2003&layout=compact&theme=radical)
+![Top Languages](https://project-daboss2003.vercel.app/api/top-langs/?username=daboss2003&layout=compact&theme=radical&cache_seconds=1800)
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daboss2003&theme=radical)
  
